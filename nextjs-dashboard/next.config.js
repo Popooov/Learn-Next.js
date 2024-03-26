@@ -2,7 +2,7 @@
 const nextConfig = {
     experimental: {
         serverActions: {
-            allowedOrigins: ["3y33wd-3000.csb.app"],
+            allowedOrigins: ["99wlqv-3000.csb.app"],
         }
     },
 };

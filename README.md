@@ -1,1 +1,1 @@
-# Learn Next.js from [Next.js](https://nextjs.org/learn)
+# Learn Next.js App Router from [Next.js](https://nextjs.org/learn)
